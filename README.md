@@ -56,6 +56,7 @@
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/wildfly.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/tomcat.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/mongodb.svg" height="35" />
+<br/>
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/spring-icon.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/hibernate.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/linux-tux.svg" height="35" />
@@ -73,6 +74,7 @@
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/mercurial.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/circleci.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/trac.svg" height="35" />
+<br/>  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/cucumber.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/intellij-idea.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/elasticsearch.svg" height="35" />
@@ -83,6 +85,7 @@
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/bitbucket.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/logstash.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/gradle.svg" height="35" />
+<br/>  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/npm-icon.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/typo3-icon.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/maven.svg" height="35" />
