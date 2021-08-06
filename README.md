@@ -18,6 +18,7 @@
 <div align="center">
 <img src=https://shields.io/badge/🚗-Automotive-red?style=for-the-badge alt=intermodalRouting style="margin-bottom: 5px;" /> 
 <img src=https://shields.io/badge/🚇-Public%20Transport-blue?style=for-the-badge alt=publicTransport style="margin-bottom: 5px;" /> 
+<br/>
 <img src=https://shields.io/badge/🤖-Industrial%20Automation-green?style=for-the-badge alt=intermodalRouting style="margin-bottom: 5px;" /> 
 <img src=https://shields.io/badge/💳-Internet%20retail-yellow?style=for-the-badge alt=internetRetail style="margin-bottom: 5px;" />
 </div>
