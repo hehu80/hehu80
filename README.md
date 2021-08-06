@@ -46,8 +46,9 @@
 <div align="center">
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/qt.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/gwt.svg" height="35" />
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/angular-icon.svg" height="35" />  
+<br/>
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/vaadin.svg" height="35" />
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/angular-icon.svg" height="35" />
 </div>
 
 ###### <div align="center">B A C K E N D</div>
