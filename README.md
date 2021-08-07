@@ -36,9 +36,11 @@
 <br/>
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/c.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" height="35" />
-<img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Kuka-logo.svg" height="35" width="65" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/json.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/gopher.svg" height="35" />
+<br/>
+<img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg" height="35" width="65" />
+<img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Kuka-logo.svg" height="35" width="65" />
 </div>
 
 ###### <div align="center">F R O N T E N D</div>
