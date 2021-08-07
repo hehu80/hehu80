@@ -36,7 +36,7 @@
 <br/>
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/c.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/c-plusplus.svg" height="35" />
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/php-alt.svg" height="35" />
+<img style="margin: 15px" src="https://de.wikipedia.org/wiki/Datei:Kuka-logo.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/json.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/gopher.svg" height="35" />
 </div>
