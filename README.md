@@ -30,8 +30,9 @@
 ###### <div align="center">M A I N</div>
 
 <div align="center">
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/azure-icon.svg" height="35" />
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/aws.svg" height="35" />
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/google-cloud.svg" height="35" />
 <br/>
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/java.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/python.svg" height="35" />
@@ -60,7 +61,6 @@
 ###### <div align="center">B A C K E N D</div>
 
 <div align="center">
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/wildfly.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/tomcat.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/mongodb.svg" height="35" />
 <br/>
