@@ -101,5 +101,6 @@
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/arduino.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/nginx.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/grafana.svg" height="35" />
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/svelte-icon.svg" height="35" />
 </div>
 
