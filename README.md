@@ -53,7 +53,8 @@
 <div align="center">
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/qt.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/gwt.svg" height="35" />
-<img style="margin: 15px" src="https://cdn.svgporn.com/logos/angular-icon.svg" height="35" />  
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/svelte-icon.svg" height="35" />
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/vue.svg" height="35" />  
 <br/>
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/vaadin.svg" height="35" />
 </div>
@@ -63,6 +64,7 @@
 <div align="center">
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/tomcat.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/mongodb.svg" height="35" />
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/terraform-icon.svg" height="35" />
 <br/>
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/spring-icon.svg" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/hibernate.svg" height="35" />
